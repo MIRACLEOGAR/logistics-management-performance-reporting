@@ -1,0 +1,41 @@
+Timestamp,Select_Load,Date,Driver_Name,Reimbursement_type,Amount,Load_ID
+1/2/2025 6:55,"LD002 | New York, NY → Newark, NJ | Northern Freight Logistics",1/8/2025,John Okafor,Fuel Refund,5000,LD002
+1/6/2025 13:22,"LD006 | New York, NY → Hartford, CT | SafeWay Carriers",1/19/2025,Emeka Obi,Toll Reimbursement,2500,LD006
+1/10/2025 17:48,"LD011 | Baltimore, MD → New York, NY | Prime Wheels Logistics",2/3/2025,Tunde Lawal,Maintenance Refund,15000,LD011
+1/15/2025 9:11,"LD013 | Richmond, VA → New York, NY | Northern Freight Logistics",2/14/2025,Samuel Ade,Driver Allowance,8000,LD013
+1/19/2025 14:36,"LD018 | Newark, NJ → Boston, MA | SafeWay Carriers",2/27/2025,Emeka Obi,Fuel Refund,2500,LD018
+1/24/2025 8:03,"LD020 | Newark, NJ → Baltimore, MD | Unity Haulage Services",3/5/2025,Ahmed Bello,Emergency Repair Refund,12000,LD020
+1/28/2025 18:29,"LD023 | Richmond, VA → Newark, NJ | Swift Haulage Ltd",3/18/2025,James Paul,Toll Reimbursement,3000,LD023
+2/1/2025 11:57,"LD027 | Boston, MA → Philadelphia, PA | BlueStar Freight Ltd",3/29/2025,Peter Okon,Loading Assistance,4000,LD027
+2/6/2025 7:41,"LD030 | Philadelphia, PA → Richmond, VA | SafeWay Carriers",4/7/2025,John Okafor,Fuel Refund,5000,LD030
+2/10/2025 16:18,"LD033 | Boston, MA → Hartford, CT | Eastern Cargo Movers",4/21/2025,Daniel Ojo,Travel Allowance,10000,LD033
+2/15/2025 10:26,"LD036 | Hartford, CT → Richmond, VA | Apex Cargo Ltd",5/2/2025,Uche Nwankwo,Maintenance Refund,14000,LD036
+2/19/2025 19:02,"LD041 | Richmond, VA → Boston, MA | Metro Haul Nigeria Ltd",5/16/2025,Chukwuemeka Nnamdi,Accommodation Refund,9000,LD041
+2/24/2025 8:47,"LD044 | Albany, NY → Philadelphia, PA | Apex Cargo Ltd",5/28/2025,Abdul Rahman,Fuel Refund,5200,LD044
+3/1/2025 13:35,"LD047 | Hartford, CT → Albany, NY | Swift Haulage Ltd",6/4/2025,Joseph Effiong,Repair Compensation,11000,LD047
+3/7/2025 9:22,"LD049 | Boston, MA → Albany, NY | RapidMove Transport",6/19/2025,Kunle Ajayi,Driver Allowance,7500,LD049
+3/13/2025 17:06,"LD052 | Albany, NY → Richmond, VA | Apex Cargo Ltd",6/30/2025,Friday Edet,Fuel Refund,4800,LD052
+3/18/2025 12:14,"LD055 | Newark, NJ → Buffalo, NY | Metro Haul Nigeria Ltd",7/8/2025,Godwin Ibe,Toll Reimbursement,2700,LD055
+3/24/2025 7:58,"LD058 | Buffalo, NY → Hartford, CT | Unity Haulage Services",7/22/2025,Michael Ekanem,Maintenance Refund,13500,LD058
+3/29/2025 15:43,"LD061 | Boston, MA → Buffalo, NY | Swift Haulage Ltd",8/3/2025,Suleiman Abdullahi,Travel Allowance,9500,LD061
+4/4/2025 10:31,"LD065 | Richmond, VA → Buffalo, NY | Metro Haul Nigeria Ltd",8/17/2025,Ayodele Femi,Fuel Refund,5100,LD065
+4/9/2025 18:12,"LD068 | Jersey City, NJ → Hartford, CT | Apex Cargo Ltd",8/29/2025,David Alabi,Emergency Repair Refund,12500,LD068
+4/15/2025 8:26,"LD071 | Boston, MA → Jersey City, NJ | Swift Haulage Ltd",9/6/2025,Aliyu Mohammed,Driver Allowance,8200,LD071
+4/21/2025 13:59,"LD074 | Jersey City, NJ → Richmond, VA | Infinity Haulage",9/20/2025,Peter Okon,Fuel Refund,5300,LD074
+4/27/2025 9:44,"LD076 | Pittsburgh, PA → Newark, NJ | SafeWay Carriers",10/2/2025,Daniel Ojo,Accommodation Refund,9200,LD076
+5/3/2025 16:27,"LD079 | New York, NY → Pittsburgh, PA | Swift Haulage Ltd",10/18/2025,Tunde Lawal,Toll Reimbursement,2600,LD079
+5/9/2025 11:03,"LD082 | Pittsburgh, PA → Boston, MA | Unity Haulage Services",10/30/2025,Ahmed Bello,Maintenance Refund,14500,LD082
+5/15/2025 19:15,"LD085 | Baltimore, MD → Pittsburgh, PA | Metro Haul Nigeria Ltd",11/7/2025,Uche Nwankwo,Fuel Refund,5400,LD085
+5/22/2025 7:36,"LD088 | New Haven, CT → Boston, MA | Infinity Haulage",11/19/2025,Chukwuemeka Nnamdi,Repair Compensation,11500,LD088
+6/3/2025 14:21,"LD091 | Newark, NJ → New Haven, CT | BlueStar Freight Ltd",12/3/2025,Joseph Effiong,Travel Allowance,9700,LD091
+6/14/2025 9:52,"LD094 | New Haven, CT → Baltimore, MD | Unity Haulage Services",12/21/2025,Friday Edet,Fuel Refund,5500,LD094
+6/25/2025 17:38,"LD097 | Richmond, VA → New Haven, CT | Swift Haulage Ltd",1/5/2026,Michael Ekanem,Driver Allowance,8300,LD097
+7/8/2025 12:09,"LD100 | Worcester, MA → Philadelphia, PA | Infinity Haulage",1/14/2026,Suleiman Abdullahi,Accommodation Refund,9100,LD100
+7/21/2025 8:33,"LD103 | Hartford, CT → Worcester, MA | Eastern Cargo Movers",1/26/2026,Ayodele Femi,Fuel Refund,5600,LD103
+8/4/2025 15:56,"LD106 | Worcester, MA → Richmond, VA | SafeWay Carriers",2/2/2026,David Alabi,Toll Reimbursement,2800,LD106
+8/18/2025 10:17,"LD110 | Baltimore, MD → Newark, NJ | Apex Cargo Ltd",2/8/2026,Aliyu Mohammed,Maintenance Refund,13800,LD110
+9/5/2025 18:41,"LD114 | Richmond, VA → Philadelphia, PA | Unity Haulage Services",2/12/2026,Uche Nwankwo,Fuel Refund,5200,LD114
+10/12/2025 9:08,"LD118 | Richmond, VA → Boston, MA | Apex Cargo Ltd",2/16/2026,Samuel Ade,Loading Assistance,4000,LD118
+11/20/2025 16:52,"LD121 | Newark, NJ → Richmond, VA | Metro Haul Nigeria Ltd",2/20/2026,Abdul Rahman,Fuel Refund,5100,LD121
+12/9/2025 11:24,"LD135 | Baltimore, MD → Hartford, CT | Apex Cargo Ltd",2/24/2026,Godwin Ibe,Driver Allowance,8000,LD135
+1/18/2026 7:49,"LD139 | Baltimore, MD → New York, NY | SafeWay Carriers",2/28/2026,Suleiman Abdullahi,Travel Allowance,9600,LD139

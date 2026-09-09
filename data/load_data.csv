@@ -1,0 +1,141 @@
+Timestamp,Load_ID,Load_Date,Route,Broker_Name,Carrier_Name,Driver_Name,Truck_Name,Dispatcher_Name,Revenue ,Broker_Deduction,Driver_Flat_Rate,Driver_Percentage ,Override_Driver_Pay,Driver_Reimbursement,Driver_Deduction,Dispatcher_Percentage,Net_Revenue
+2025-01-03 7:42:00,LD001,1/6/2025,"Richmond, VA → New York, NY",BUA Freight Solutions,Golden Route Transport,James Paul,TRK-1023,Hassan Abdullahi,12000,0,5000,0,0,0,3000,5,12000
+2025-01-05 14:18:00,LD002,1/3/2025,"New York, NY → Newark, NJ",Abuja Cargo Connect,Northern Freight Logistics,Samuel Ade,TRK-1023,Samuel Etim,14500,0,0,25,1500,5000,800,7,14500
+2025-01-08 9:56:00,LD003,1/4/2025,"Newark, NJ → New York, NY",Kano Cargo Network,Swift Haulage Ltd,Ahmed Bello,TRK-1023,Hassan Abdullahi,18500,0,7000,0,0,0,0,6,18500
+2025-01-11 18:27:00,LD004,1/6/2025,"New York, NY → Philadelphia, PA",Delta Haul Brokers,BlueStar Freight Ltd,Kunle Ajayi,TRK-1023,Victoria Okon,16750,4500,0,30,2000,0,0,8,12250
+2025-01-14 6:33:00,LD005,1/9/2025,"Philadelphia, PA → New York, NY",Kano Cargo Network,Unity Haulage Services,Chukwuemeka Nnamdi,TRK-1023,Samuel Etim,13500,0,6000,0,0,0,2500,5,13500
+2025-01-17 12:49:00,LD006,1/12/2025,"New York, NY → Hartford, CT",Northern Load Brokers Ltd,SafeWay Carriers,Joseph Effiong,TRK-1023,Chinedu Okeke,15200,0,0,20,1000,2500,8000,6,15200
+2025-01-20 15:12:00,LD007,1/15/2025,"Hartford, CT → New York, NY",Delta Haul Brokers,Northern Freight Logistics,Friday Edet,TRK-1023,Ifeanyi Obi,11000,0,8000,0,0,0,0,7,11000
+2025-01-23 8:05:00,LD008,1/18/2025,"New York, NY → Boston, MA",Abuja Cargo Connect,Infinity Haulage,Tunde Lawal,TRK-1023,Hassan Abdullahi,17800,0,0,28,1800,0,6000,5,17800
+2025-01-27 19:44:00,LD009,1/21/2025,"Boston, MA → New York, NY",Eko Freight Partners,Apex Cargo Ltd,Abdul Rahman,TX-1102,Hassan Abdullahi,12500,0,5500,0,0,0,0,9,12500
+2025-01-30 10:21:00,LD010,1/24/2025,"New York, NY → Baltimore, MD",Abuja Cargo Connect,SafeWay Carriers,Abdul Rahman,TX-1102,Blessing Okoro,16000,7000,0,25,1200,0,0,6,9000
+2025-02-02 13:37:00,LD011,1/27/2025,"Baltimore, MD → New York, NY",Ibadan Freight Hub,Prime Wheels Logistics,Uche Nwankwo,TX-1102,Ifeanyi Obi,14200,0,6500,0,0,15000,0,5,14200
+2025-02-05 7:58:00,LD012,1/30/2025,"New York, NY → Richmond, VA",Kano Cargo Network,Metro Haul Nigeria Ltd,John Okafor,TX-1102,Hassan Abdullahi,15500,0,0,27,1500,0,2000,7,15500
+2025-02-08 16:42:00,LD013,2/2/2025,"Richmond, VA → New York, NY",Dangote Logistics Services,Northern Freight Logistics,Samuel Ade,TX-1102,Samuel Etim,11800,0,7200,0,0,8000,15000,8,11800
+2025-02-11 11:09:00,LD014,2/5/2025,"Newark, NJ → Philadelphia, PA",Kano Cargo Network,Apex Cargo Ltd,Abdul Rahman,CA-1205,Blessing Okoro,17200,0,0,22,900,0,0,6,17200
+2025-02-14 18:55:00,LD015,2/8/2025,"Philadelphia, PA → Newark, NJ",Abuja Cargo Connect,Swift Haulage Ltd,John Okafor,CA-1205,Ifeanyi Obi,13000,0,5800,0,0,0,4000,5,13000
+2025-02-17 9:14:00,LD016,2/11/2025,"Newark, NJ → Hartford, CT",Delta Haul Brokers,Metro Haul Nigeria Ltd,James Paul,CA-1205,Emmanuel Yusuf,30500,0,0,30,2100,0,0,7,30500
+2025-02-20 14:26:00,LD017,2/14/2025,"Hartford, CT → Newark, NJ",BUA Freight Solutions,BlueStar Freight Ltd,Uche Nwankwo,FL-1301,Chinedu Okeke,9900,9000,6200,0,0,0,0,6,900
+2025-02-23 6:48:00,LD018,2/17/2025,"Newark, NJ → Boston, MA",Eko Freight Partners,SafeWay Carriers,Aliyu Mohammed,FL-1301,Oluwatobi Akin,16500,0,0,24,1300,2500,0,8,16500
+2025-02-26 17:33:00,LD019,2/20/2025,"Boston, MA → Newark, NJ",Northern Load Brokers Ltd,Eastern Cargo Movers,Tunde Lawal,NJ-1403,Victoria Okon,27800,0,7500,0,0,0,5500,5,27800
+2025-03-01 10:02:00,LD020,2/23/2025,"Newark, NJ → Baltimore, MD",Ibadan Freight Hub,Unity Haulage Services,Kunle Ajayi,TRK-1031,Hassan Abdullahi,15000,0,0,26,1600,12000,3000,9,15000
+2025-03-04 13:51:00,LD021,2/26/2025,"Baltimore, MD → Newark, NJ",Dangote Logistics Services,RapidMove Transport,Peter Okon,TRK-1031,Samuel Etim,11200,0,6800,0,0,0,0,6,11200
+2025-03-07 8:19:00,LD022,3/1/2025,"Newark, NJ → Richmond, VA",Kano Cargo Network,Infinity Haulage,Godwin Ibe,TX-1108,Ifeanyi Obi,17500,0,0,29,1900,0,8500,7,17500
+2025-03-10 19:07:00,LD023,3/4/2025,"Richmond, VA → Newark, NJ",Abuja Cargo Connect,Swift Haulage Ltd,Samuel Ade,TX-1108,Blessing Okoro,12800,0,7100,0,0,3000,0,5,12800
+2025-03-13 12:36:00,LD024,3/7/2025,"Philadelphia, PA → Hartford, CT",BUA Freight Solutions,Northern Freight Logistics,Joseph Effiong,TX-1108,Emmanuel Yusuf,16200,0,0,23,1100,0,6500,8,16200
+2025-03-16 7:24:00,LD025,3/10/2025,"Hartford, CT → Philadelphia, PA",Delta Haul Brokers,TransNation Logistics,Emeka Obi,CA-1210,Hassan Abdullahi,14000,0,5400,0,0,0,0,6,14000
+2025-03-19 15:58:00,LD026,3/13/2025,"Philadelphia, PA → Boston, MA",Dangote Logistics Services,Apex Cargo Ltd,David Alabi,FL-1304,Chinedu Okeke,15800,12000,0,25,1400,0,0,7,3800
+2025-03-22 9:45:00,LD027,3/16/2025,"Boston, MA → Philadelphia, PA",Eko Freight Partners,BlueStar Freight Ltd,Chukwuemeka Nnamdi,FL-1304,Samuel Etim,11900,0,6000,0,0,4000,0,5,11900
+2025-03-25 18:12:00,LD028,3/19/2025,"Philadelphia, PA → Baltimore, MD",Kano Cargo Network,SolidTrack Logistics,Daniel Ojo,FL-1304,Oluwatobi Akin,17000,0,0,28,1700,0,4500,9,17000
+2025-03-28 11:33:00,LD029,3/22/2025,"Baltimore, MD → Philadelphia, PA",Northern Load Brokers Ltd,Metro Haul Nigeria Ltd,Ahmed Bello,FL-1304,Victoria Okon,13200,0,7700,0,0,0,0,6,13200
+2025-03-31 16:27:00,LD030,3/25/2025,"Philadelphia, PA → Richmond, VA",Abuja Cargo Connect,SafeWay Carriers,Friday Edet,FL-1304,Hassan Abdullahi,14700,0,0,30,2000,5000,2200,8,14700
+2025-04-03 6:55:00,LD031,3/28/2025,"Richmond, VA → Philadelphia, PA",Ibadan Freight Hub,Swift Haulage Ltd,Suleiman Abdullahi,NJ-1407,Ifeanyi Obi,10000,0,6900,0,0,0,0,5,10000
+2025-04-06 14:41:00,LD032,3/31/2025,"Hartford, CT → Boston, MA",Delta Haul Brokers,Northern Freight Logistics,Michael Ekanem,TRK-1035,Blessing Okoro,16800,0,0,21,800,0,5000,7,16800
+2025-04-09 10:17:00,LD033,4/3/2025,"Boston, MA → Hartford, CT",Dangote Logistics Services,Eastern Cargo Movers,Samuel Ade,TRK-1035,Samuel Etim,13600,8000,5600,0,0,10000,0,6,5600
+2025-04-12 19:02:00,LD034,4/6/2025,"Hartford, CT → Baltimore, MD",BUA Freight Solutions,Unity Haulage Services,Abdul Rahman,TRK-1035,Emmanuel Yusuf,15100,0,0,27,1500,0,0,8,15100
+2025-04-15 8:26:00,LD035,4/9/2025,"Baltimore, MD → Hartford, CT",Eko Freight Partners,BlueStar Freight Ltd,John Okafor,TRK-1035,Chinedu Okeke,11400,0,6400,0,0,0,2800,5,11400
+2025-04-18 13:38:00,LD036,4/12/2025,"Hartford, CT → Richmond, VA",Kano Cargo Network,Apex Cargo Ltd,James Paul,TRK-1035,Hassan Abdullahi,17600,0,0,26,1400,14000,0,9,17600
+2025-04-21 17:59:00,LD037,4/15/2025,"Richmond, VA → Hartford, CT",Abuja Cargo Connect,RapidMove Transport,Uche Nwankwo,TRK-1035,Oluwatobi Akin,12600,0,7300,0,0,0,9000,6,12600
+2025-04-24 9:11:00,LD038,4/18/2025,"Boston, MA → Baltimore, MD",Northern Load Brokers Ltd,Infinity Haulage,Aliyu Mohammed,TX-1112,Victoria Okon,16100,0,0,24,1200,0,0,7,16100
+2025-04-27 15:47:00,LD039,4/21/2025,"Baltimore, MD → Boston, MA",Dangote Logistics Services,Swift Haulage Ltd,Tunde Lawal,TX-1112,Ifeanyi Obi,13900,0,5800,0,0,0,7000,5,13900
+2025-04-30 7:36:00,LD040,4/24/2025,"Boston, MA → Richmond, VA",Ibadan Freight Hub,Northern Freight Logistics,Kunle Ajayi,TX-1112,Samuel Etim,15300,0,0,29,1800,0,0,8,15300
+2025-05-03 18:23:00,LD041,4/27/2025,"Richmond, VA → Boston, MA",Delta Haul Brokers,Metro Haul Nigeria Ltd,Peter Okon,TX-1112,Blessing Okoro,12100,0,6100,0,0,9000,13000,6,12100
+2025-05-06 12:05:00,LD042,4/30/2025,"Albany, NY → Newark, NJ",BUA Freight Solutions,SafeWay Carriers,Godwin Ibe,CA-1202,Hassan Abdullahi,16900,7500,0,22,900,0,0,7,9400
+2025-05-09 9:52:00,LD043,5/3/2025,"Newark, NJ → Albany, NY",Kano Cargo Network,BlueStar Freight Ltd,Joseph Effiong,CA-1202,Emmanuel Yusuf,13400,0,7000,0,0,0,0,5,13400
+2025-05-12 16:14:00,LD044,5/6/2025,"Albany, NY → Philadelphia, PA",Abuja Cargo Connect,Apex Cargo Ltd,Emeka Obi,TRK-1040,Chinedu Okeke,14800,0,0,25,1500,5200,4200,9,14800
+2025-05-15 8:33:00,LD045,5/9/2025,"Philadelphia, PA → Albany, NY",Dangote Logistics Services,Eastern Cargo Movers,David Alabi,TRK-1040,Samuel Etim,10200,0,7600,0,0,0,0,6,10200
+2025-05-18 13:27:00,LD046,5/12/2025,"Albany, NY → Hartford, CT",Eko Freight Partners,Unity Haulage Services,Chukwuemeka Nnamdi,TRK-1040,Ifeanyi Obi,16600,0,0,30,2100,0,5200,8,16600
+2025-05-21 19:41:00,LD047,5/15/2025,"Hartford, CT → Albany, NY",Northern Load Brokers Ltd,Swift Haulage Ltd,Daniel Ojo,TRK-1040,Oluwatobi Akin,13700,0,6500,0,0,11000,0,5,13700
+2025-05-24 10:09:00,LD048,5/18/2025,"Albany, NY → Boston, MA",Kano Cargo Network,Northern Freight Logistics,Ahmed Bello,TRK-1040,Victoria Okon,15400,0,0,28,1700,0,3100,7,15400
+2025-05-27 14:55:00,LD049,5/21/2025,"Boston, MA → Albany, NY",BUA Freight Solutions,RapidMove Transport,Friday Edet,FL-1309,Hassan Abdullahi,11300,0,7200,0,0,7500,0,6,11300
+2025-05-30 7:18:00,LD050,5/24/2025,"Albany, NY → Baltimore, MD",Delta Haul Brokers,Infinity Haulage,Suleiman Abdullahi,FL-1309,Blessing Okoro,17700,0,0,26,1400,0,8700,8,17700
+2025-06-02 17:04:00,LD051,5/27/2025,"Baltimore, MD → Albany, NY",Dangote Logistics Services,BlueStar Freight Ltd,Michael Ekanem,FL-1309,Samuel Etim,12700,0,6800,0,0,0,0,5,12700
+2025-06-05 11:39:00,LD052,5/30/2025,"Albany, NY → Richmond, VA",Ibadan Freight Hub,Apex Cargo Ltd,Samuel Ade,NJ-1410,Ifeanyi Obi,56000,10000,0,23,1000,4800,0,9,46000
+2025-06-08 9:22:00,LD053,6/2/2025,"Richmond, VA → Albany, NY",Abuja Cargo Connect,Swift Haulage Ltd,Abdul Rahman,NJ-1410,Emmanuel Yusuf,14100,0,5900,0,0,0,0,6,14100
+2025-06-11 18:46:00,LD054,6/5/2025,"Buffalo, NY → Newark, NJ",Eko Freight Partners,Northern Freight Logistics,John Okafor,TX-1101,Chinedu Okeke,15600,0,0,27,1500,0,6800,7,15600
+2025-06-14 13:03:00,LD055,6/8/2025,"Newark, NJ → Buffalo, NY",Kano Cargo Network,Metro Haul Nigeria Ltd,James Paul,TX-1101,Hassan Abdullahi,12000,0,6300,0,0,2700,0,5,12000
+2025-06-17 6:59:00,LD056,6/11/2025,"Buffalo, NY → Philadelphia, PA",Northern Load Brokers Ltd,SafeWay Carriers,Uche Nwankwo,TX-1101,Victoria Okon,17100,0,0,24,1200,0,2400,8,17100
+2025-06-20 15:28:00,LD057,6/14/2025,"Philadelphia, PA → Buffalo, NY",Dangote Logistics Services,Eastern Cargo Movers,Aliyu Mohammed,CA-1215,Oluwatobi Akin,13300,0,7400,0,0,0,0,6,13300
+2025-06-23 10:16:00,LD058,6/17/2025,"Buffalo, NY → Hartford, CT",BUA Freight Solutions,Unity Haulage Services,Tunde Lawal,CA-1215,Samuel Etim,14600,0,0,29,1800,13500,14000,7,14600
+2025-06-26 19:52:00,LD059,6/20/2025,"Hartford, CT → Buffalo, NY",Delta Haul Brokers,BlueStar Freight Ltd,Kunle Ajayi,TRK-1033,Blessing Okoro,10100,0,6600,0,0,0,0,5,10100
+2025-06-29 8:44:00,LD060,6/23/2025,"Buffalo, NY → Boston, MA",Abuja Cargo Connect,Apex Cargo Ltd,Peter Okon,TRK-1033,Ifeanyi Obi,16700,0,0,21,800,0,5300,9,16700
+2025-07-02 14:11:00,LD061,6/26/2025,"Boston, MA → Buffalo, NY",Kano Cargo Network,Swift Haulage Ltd,Godwin Ibe,TRK-1033,Hassan Abdullahi,13500,0,7100,0,0,9500,0,6,13500
+2025-07-05 9:37:00,LD062,6/29/2025,"Buffalo, NY → Baltimore, MD",Eko Freight Partners,Northern Freight Logistics,Joseph Effiong,FL-1312,Emmanuel Yusuf,15200,11000,0,25,1500,0,0,8,4200
+2025-07-08 17:25:00,LD063,7/2/2025,"Baltimore, MD → Buffalo, NY",Dangote Logistics Services,RapidMove Transport,Emeka Obi,FL-1312,Chinedu Okeke,11500,0,7800,0,0,0,0,5,11500
+2025-07-11 11:58:00,LD064,7/5/2025,"Buffalo, NY → Richmond, VA",Ibadan Freight Hub,Infinity Haulage,David Alabi,TRK-1042,Samuel Etim,17800,0,0,30,2000,0,2600,7,17800
+2025-07-14 7:42:00,LD065,7/8/2025,"Richmond, VA → Buffalo, NY",BUA Freight Solutions,Metro Haul Nigeria Ltd,Chukwuemeka Nnamdi,TRK-1042,Ifeanyi Obi,12900,0,6000,0,0,5100,0,6,12900
+2025-07-17 16:09:00,LD066,7/11/2025,"Jersey City, NJ → Philadelphia, PA",Delta Haul Brokers,SafeWay Carriers,Daniel Ojo,TRK-1042,Oluwatobi Akin,16400,0,0,28,1700,0,9200,8,16400
+2025-07-20 13:36:00,LD067,7/14/2025,"Philadelphia, PA → Jersey City, NJ",Kano Cargo Network,BlueStar Freight Ltd,Ahmed Bello,NJ-1405,Victoria Okon,13800,0,6700,0,0,0,0,5,13800
+2025-07-23 8:17:00,LD068,7/17/2025,"Jersey City, NJ → Hartford, CT",Abuja Cargo Connect,Apex Cargo Ltd,Friday Edet,NJ-1405,Hassan Abdullahi,15000,0,0,26,1400,12500,7100,9,15000
+2025-07-26 19:23:00,LD069,7/20/2025,"Hartford, CT → Jersey City, NJ",Dangote Logistics Services,Eastern Cargo Movers,Suleiman Abdullahi,TX-1115,Blessing Okoro,12200,0,7300,0,0,0,0,6,12200
+2025-07-29 10:54:00,LD070,7/23/2025,"Jersey City, NJ → Boston, MA",Northern Load Brokers Ltd,Unity Haulage Services,Michael Ekanem,TX-1115,Samuel Etim,17000,0,0,23,1000,0,4800,7,17000
+2025-08-01 15:07:00,LD071,7/26/2025,"Boston, MA → Jersey City, NJ",Eko Freight Partners,Swift Haulage Ltd,Samuel Ade,TX-1115,Ifeanyi Obi,13600,0,3000,0,0,8200,0,5,13600
+2025-08-04 9:28:00,LD072,7/29/2025,"Jersey City, NJ → Baltimore, MD",BUA Freight Solutions,Northern Freight Logistics,Abdul Rahman,TRK-1038,Emmanuel Yusuf,14900,8500,0,27,1500,0,0,8,6400
+2025-08-07 18:11:00,LD073,8/1/2025,"Baltimore, MD → Jersey City, NJ",Kano Cargo Network,RapidMove Transport,John Okafor,TRK-1038,Chinedu Okeke,26300,0,2500,0,0,0,0,6,26300
+2025-08-10 12:44:00,LD074,8/4/2025,"Jersey City, NJ → Richmond, VA",Delta Haul Brokers,Infinity Haulage,James Paul,TRK-1038,Hassan Abdullahi,16800,0,0,24,1200,5300,5100,7,16800
+2025-08-13 7:53:00,LD075,8/7/2025,"Richmond, VA → Jersey City, NJ",Dangote Logistics Services,Metro Haul Nigeria Ltd,Uche Nwankwo,CA-1208,Victoria Okon,13700,0,7500,0,0,0,0,5,13700
+2025-08-16 16:32:00,LD076,8/10/2025,"Pittsburgh, PA → Newark, NJ",Abuja Cargo Connect,SafeWay Carriers,Aliyu Mohammed,CA-1208,Oluwatobi Akin,28600,0,0,29,1800,9200,2900,9,28600
+2025-08-19 11:06:00,LD077,8/13/2025,"Newark, NJ → Pittsburgh, PA",Ibadan Freight Hub,BlueStar Freight Ltd,Tunde Lawal,FL-1306,Samuel Etim,11600,0,6900,0,0,0,0,6,11600
+2025-08-22 19:47:00,LD078,8/16/2025,"Pittsburgh, PA → New York, NY",Eko Freight Partners,Apex Cargo Ltd,Kunle Ajayi,FL-1306,Blessing Okoro,17500,0,0,22,900,0,8800,8,17500
+2025-08-25 8:39:00,LD079,8/19/2025,"New York, NY → Pittsburgh, PA",Kano Cargo Network,Swift Haulage Ltd,Peter Okon,TRK-1024,Ifeanyi Obi,13000,0,7100,0,0,2600,0,5,13000
+2025-08-28 14:22:00,LD080,8/22/2025,"Pittsburgh, PA → Hartford, CT",Northern Load Brokers Ltd,Northern Freight Logistics,Godwin Ibe,TRK-1024,Hassan Abdullahi,16200,0,0,25,1500,0,6400,7,16200
+2025-08-31 10:15:00,LD081,8/25/2025,"Hartford, CT → Pittsburgh, PA",BUA Freight Solutions,Eastern Cargo Movers,Joseph Effiong,TX-1106,Emmanuel Yusuf,14000,0,7700,0,0,0,0,6,14000
+2025-09-03 17:56:00,LD082,8/28/2025,"Pittsburgh, PA → Boston, MA",Dangote Logistics Services,Unity Haulage Services,Emeka Obi,TX-1106,Chinedu Okeke,15700,7600,0,30,2100,14500,0,8,8100
+2025-09-06 13:48:00,LD083,8/31/2025,"Boston, MA → Pittsburgh, PA",Delta Haul Brokers,BlueStar Freight Ltd,David Alabi,NJ-1412,Samuel Etim,12300,0,6500,0,0,0,0,5,12300
+2025-09-09 7:26:00,LD084,9/3/2025,"Pittsburgh, PA → Baltimore, MD",Abuja Cargo Connect,Apex Cargo Ltd,Chukwuemeka Nnamdi,NJ-1412,Oluwatobi Akin,16900,0,0,28,1700,0,2300,9,16900
+2025-09-12 16:13:00,LD085,9/6/2025,"Baltimore, MD → Pittsburgh, PA",Kano Cargo Network,Metro Haul Nigeria Ltd,Daniel Ojo,TRK-1045,Victoria Okon,15400,0,3200,0,0,5400,0,6,15400
+2025-09-15 11:51:00,LD086,9/9/2025,"Pittsburgh, PA → Richmond, VA",Eko Freight Partners,SafeWay Carriers,Ahmed Bello,TRK-1045,Hassan Abdullahi,14800,0,0,26,1400,0,13500,7,14800
+2025-09-18 9:04:00,LD087,9/12/2025,"Richmond, VA → Pittsburgh, PA",BUA Freight Solutions,RapidMove Transport,Friday Edet,TRK-1045,Ifeanyi Obi,10400,0,6800,0,0,0,0,5,10400
+2025-09-21 18:37:00,LD088,9/15/2025,"New Haven, CT → Boston, MA",Northern Load Brokers Ltd,Infinity Haulage,Suleiman Abdullahi,TRK-1045,Blessing Okoro,26000,0,0,23,1000,11500,5600,8,26000
+2025-09-24 14:29:00,LD089,9/18/2025,"Boston, MA → New Haven, CT",Dangote Logistics Services,Swift Haulage Ltd,Michael Ekanem,TRK-1045,Samuel Etim,17800,0,3400,0,0,0,0,6,17800
+2025-09-27 8:41:00,LD090,9/21/2025,"New Haven, CT → Newark, NJ",Ibadan Freight Hub,Northern Freight Logistics,Samuel Ade,TRK-1045,Emmanuel Yusuf,15400,0,0,27,1500,0,3000,7,15400
+2025-09-30 19:05:00,LD091,9/24/2025,"Newark, NJ → New Haven, CT",Delta Haul Brokers,BlueStar Freight Ltd,Abdul Rahman,TRK-1045,Chinedu Okeke,11700,0,6300,0,0,9700,0,5,11700
+2025-10-03 10:33:00,LD092,9/27/2025,"New Haven, CT → Philadelphia, PA",Kano Cargo Network,Apex Cargo Ltd,John Okafor,FL-1304,Hassan Abdullahi,17600,9500,0,24,1200,0,0,9,8100
+2025-10-06 15:17:00,LD093,9/30/2025,"Philadelphia, PA → New Haven, CT",Abuja Cargo Connect,Eastern Cargo Movers,James Paul,FL-1304,Victoria Okon,13100,0,7400,0,0,0,0,6,13100
+2025-10-09 7:49:00,LD094,10/3/2025,"New Haven, CT → Baltimore, MD",Dangote Logistics Services,Unity Haulage Services,Uche Nwankwo,TRK-1035,Oluwatobi Akin,16300,0,0,29,1800,5500,8200,6,16300
+2025-10-12 18:22:00,LD095,10/6/2025,"Baltimore, MD → New Haven, CT",Eko Freight Partners,Metro Haul Nigeria Ltd,Aliyu Mohammed,TRK-1035,Samuel Etim,14100,0,6600,0,0,0,0,7,14100
+2025-10-15 12:38:00,LD096,10/9/2025,"New Haven, CT → Richmond, VA",BUA Freight Solutions,SafeWay Carriers,Tunde Lawal,TX-1112,Blessing Okoro,15800,0,0,21,800,0,6700,5,15800
+2025-10-18 9:57:00,LD097,10/12/2025,"Richmond, VA → New Haven, CT",Northern Load Brokers Ltd,Swift Haulage Ltd,Kunle Ajayi,TX-1112,Ifeanyi Obi,12400,0,7000,0,0,8300,0,8,12400
+2025-10-21 17:14:00,LD098,10/15/2025,"Worcester, MA → Newark, NJ",Kano Cargo Network,Northern Freight Logistics,Peter Okon,CA-1202,Hassan Abdullahi,17100,0,0,25,1500,0,4300,6,17100
+2025-10-24 13:26:00,LD099,10/18/2025,"Newark, NJ → Worcester, MA",Delta Haul Brokers,RapidMove Transport,Godwin Ibe,TRK-1040,Emmanuel Yusuf,13500,0,7600,0,0,0,0,7,13500
+2025-10-27 8:02:00,LD100,10/21/2025,"Worcester, MA → Philadelphia, PA",Dangote Logistics Services,Infinity Haulage,Joseph Effiong,TRK-1040,Chinedu Okeke,14700,0,0,30,2000,9100,12500,9,14700
+2025-10-30 19:36:00,LD101,10/24/2025,"Philadelphia, PA → Worcester, MA",Abuja Cargo Connect,BlueStar Freight Ltd,Emeka Obi,NJ-1403,Samuel Etim,10500,0,6000,0,0,0,0,5,10500
+2025-11-02 10:48:00,LD102,10/27/2025,"Worcester, MA → Hartford, CT",Ibadan Freight Hub,Apex Cargo Ltd,David Alabi,TX-1101,Oluwatobi Akin,30000,11500,0,28,1700,0,0,6,18500
+2025-11-05 15:59:00,LD103,10/30/2025,"Hartford, CT → Worcester, MA",Eko Freight Partners,Eastern Cargo Movers,Chukwuemeka Nnamdi,TX-1101,Victoria Okon,13900,0,6700,0,0,5600,0,8,13900
+2025-11-08 7:31:00,LD104,11/2/2025,"Worcester, MA → Baltimore, MD",BUA Freight Solutions,Unity Haulage Services,Daniel Ojo,CA-1215,Hassan Abdullahi,15200,0,0,26,1400,0,5400,7,15200
+2025-11-11 18:08:00,LD105,11/5/2025,"Baltimore, MD → Worcester, MA",Kano Cargo Network,Metro Haul Nigeria Ltd,Ahmed Bello,TRK-1033,Blessing Okoro,11800,0,7300,0,0,0,0,5,11800
+2025-11-14 12:21:00,LD106,11/8/2025,"Worcester, MA → Richmond, VA",Dangote Logistics Services,SafeWay Carriers,Friday Edet,FL-1312,Samuel Etim,17850,0,0,23,1000,2800,3200,6,17850
+2025-11-17 9:43:00,LD107,11/11/2025,"Richmond, VA → Worcester, MA",Delta Haul Brokers,Swift Haulage Ltd,Suleiman Abdullahi,TRK-1023,Ifeanyi Obi,13200,0,5600,0,0,0,0,9,13200
+2025-11-20 16:52:00,LD108,11/14/2025,"Baltimore, MD → Richmond, VA",Dangote Logistics Services,Northern Freight Logistics,Michael Ekanem,TRK-1023,Emmanuel Yusuf,26700,0,0,27,1500,0,9100,8,26700
+2025-11-23 13:07:00,LD109,11/17/2025,"Richmond, VA → Baltimore, MD",Northern Load Brokers Ltd,BlueStar Freight Ltd,Samuel Ade,TX-1108,Chinedu Okeke,14200,0,6200,0,0,0,6900,5,14200
+2025-11-26 8:28:00,LD110,11/20/2025,"Baltimore, MD → Newark, NJ",Eko Freight Partners,Apex Cargo Ltd,Samuel Ade,CA-1210,Hassan Abdullahi,15600,0,0,24,1200,13800,0,7,15600
+2025-11-29 19:18:00,LD111,11/23/2025,"Newark, NJ → Baltimore, MD",BUA Freight Solutions,Northern Freight Logistics,Ahmed Bello,FL-1309,Victoria Okon,12500,7800,7500,0,0,0,0,6,4700
+2025-12-02 10:11:00,LD112,11/26/2025,"Baltimore, MD → Philadelphia, PA",Kano Cargo Network,Swift Haulage Ltd,Kunle Ajayi,NJ-1410,Oluwatobi Akin,17200,0,0,29,1800,0,0,8,17200
+2025-12-05 14:57:00,LD113,11/29/2025,"Philadelphia, PA → Baltimore, MD",Delta Haul Brokers,BlueStar Freight Ltd,Chukwuemeka Nnamdi,TRK-1042,Samuel Etim,13600,0,6900,0,1700,0,4700,5,13600
+2025-12-08 7:36:00,LD114,12/2/2025,"Richmond, VA → Philadelphia, PA",Dangote Logistics Services,Unity Haulage Services,Joseph Effiong,NJ-1405,Blessing Okoro,14900,0,0,22,0,5200,0,9,14900
+2025-12-11 18:49:00,LD115,12/5/2025,"Philadelphia, PA → Richmond, VA",Abuja Cargo Connect,SafeWay Carriers,Friday Edet,TX-1115,Ifeanyi Obi,10600,0,7100,0,1400,0,5200,6,10600
+2025-12-14 11:24:00,LD116,12/8/2025,"Richmond, VA → Hartford, CT",Ibadan Freight Hub,Northern Freight Logistics,Tunde Lawal,TRK-1038,Hassan Abdullahi,16850,0,0,25,0,0,0,7,16850
+2025-12-17 9:12:00,LD117,12/11/2025,"Hartford, CT → Richmond, VA",Eko Freight Partners,Infinity Haulage,Abdul Rahman,CA-1208,Emmanuel Yusuf,14000,0,7800,0,1000,0,2800,5,14000
+2025-12-20 16:33:00,LD118,12/14/2025,"Richmond, VA → Boston, MA",Kano Cargo Network,Apex Cargo Ltd,Abdul Rahman,FL-1306,Chinedu Okeke,15300,0,0,30,0,4000,0,8,15300
+2025-12-23 13:50:00,LD119,12/17/2025,"Boston, MA → Richmond, VA",Northern Load Brokers Ltd,SafeWay Carriers,Uche Nwankwo,TRK-1024,Samuel Etim,11900,0,6500,0,1500,0,8600,6,11900
+2025-12-26 8:06:00,LD120,12/20/2025,"Richmond, VA → Newark, NJ",BUA Freight Solutions,Prime Wheels Logistics,John Okafor,TX-1106,Oluwatobi Akin,17700,7200,0,28,0,0,0,7,10500
+2025-12-29 19:29:00,LD121,12/23/2025,"Newark, NJ → Richmond, VA",Dangote Logistics Services,Metro Haul Nigeria Ltd,Samuel Ade,NJ-1412,Victoria Okon,13300,0,7200,0,1200,5100,0,9,13300
+2026-01-02 10:42:00,LD122,12/27/2025,"Baltimore, MD → Boston, MA",Delta Haul Brokers,Northern Freight Logistics,Abdul Rahman,TRK-1045,Hassan Abdullahi,16500,0,0,26,0,0,8000,5,16500
+2026-01-05 15:18:00,LD123,12/30/2025,"Boston, MA → Baltimore, MD",Abuja Cargo Connect,Apex Cargo Ltd,John Okafor,TRK-1045,Blessing Okoro,14300,0,6800,0,1800,0,6600,6,14300
+2026-01-08 7:55:00,LD124,1/1/2026,"Hartford, CT → Newark, NJ",Kano Cargo Network,Swift Haulage Ltd,James Paul,TRK-1045,Ifeanyi Obi,15700,0,0,23,0,0,0,8,15700
+2026-01-11 18:04:00,LD125,1/1/2026,"Newark, NJ → Hartford, CT",Eko Freight Partners,Metro Haul Nigeria Ltd,Uche Nwankwo,TRK-1045,Samuel Etim,12600,0,5900,0,1500,0,0,7,12600
+2026-01-14 12:27:00,LD126,1/1/2026,"Philadelphia, PA → Boston, MA",BUA Freight Solutions,BlueStar Freight Ltd,Aliyu Mohammed,TRK-1045,Emmanuel Yusuf,17000,0,0,27,0,0,2500,5,17000
+2026-01-17 9:36:00,LD127,1/18/2026,"Boston, MA → Philadelphia, PA",Ibadan Freight Hub,SafeWay Carriers,Tunde Lawal,TRK-1023,Chinedu Okeke,13700,0,6300,0,2000,0,0,6,13700
+2026-01-20 17:45:00,LD128,1/24/2026,"New York, NY → Pittsburgh, PA",Kano Cargo Network,Eastern Cargo Movers,Kunle Ajayi,TRK-1023,Hassan Abdullahi,14800,0,0,24,0,0,0,9,14800
+2026-01-23 13:19:00,LD129,1/29/2026,"Pittsburgh, PA → New York, NY",Dangote Logistics Services,Unity Haulage Services,Peter Okon,TRK-1023,Samuel Etim,10700,0,7400,0,1700,0,13800,8,10700
+2026-01-26 8:23:00,LD130,2/2/2026,"Albany, NY → Boston, MA",Kano Cargo Network,RapidMove Transport,Godwin Ibe,TX-1102,Hassan Abdullahi,16950,0,0,29,0,0,0,5,16950
+2026-01-29 19:51:00,LD131,2/2/2026,"Boston, MA → Albany, NY",Abuja Cargo Connect,Infinity Haulage,Samuel Ade,TX-1102,Victoria Okon,14100,5800,0,28,1400,0,0,7,8300
+2026-02-01 10:06:00,LD132,2/2/2026,"Buffalo, NY → Philadelphia, PA",Delta Haul Brokers,Swift Haulage Ltd,Joseph Effiong,CA-1205,Samuel Etim,15400,0,7200,0,0,0,0,6,15400
+2026-02-04 14:33:00,LD133,2/15/2026,"Philadelphia, PA → Buffalo, NY",BUA Freight Solutions,Northern Freight Logistics,Emeka Obi,FL-1301,Chinedu Okeke,12000,0,0,26,1000,0,0,7,12000
+2026-02-07 7:47,LD134,2/19/2026,"Hartford, CT → Baltimore, MD",Eko Freight Partners,TransNation Logistics,David Alabi,NJ-1403,Ifeanyi Obi,17800,0,6800,0,0,0,0,5,17800
+2026-02-10 18:16,LD135,2/23/2026,"Baltimore, MD → Hartford, CT",Northern Load Brokers Ltd,Apex Cargo Ltd,Chukwuemeka Nnamdi,TRK-1031,Hassan Abdullahi,13400,0,0,23,1500,8000,0,8,13400
+2026-02-13 12:59,LD136,2/26/2026,"Newark, NJ → Boston, MA",Ibadan Freight Hub,BlueStar Freight Ltd,Daniel Ojo,TX-1108,Hassan Abdullahi,16600,0,5900,0,1700,0,0,6,16600
+2026-02-16 9:08,LD137,2/28/2026,"Boston, MA → Newark, NJ",Dangote Logistics Services,SolidTrack Logistics,Ahmed Bello,CA-1210,Blessing Okoro,14400,0,0,27,0,0,0,9,14400
+2026-02-19 16:41,LD138,2/28/2026,"New York, NY → Baltimore, MD",Kano Cargo Network,Metro Haul Nigeria Ltd,Friday Edet,FL-1304,Ifeanyi Obi,15800,0,6300,0,1400,0,0,7,15800
+2026-02-22 13:02,LD139,3/1/2026,"Baltimore, MD → New York, NY",Abuja Cargo Connect,SafeWay Carriers,Peter Okon,NJ-1407,Hassan Abdullahi,12700,0,0,24,0,9600,0,5,12700
+2026-02-25 8:34,LD140,3/3/2026,"Philadelphia, PA → Hartford, CT",BUA Freight Solutions,Swift Haulage Ltd,Godwin Ibe,,Chinedu Okeke,24500,0,5500,0,1000,0,0,9,24500
