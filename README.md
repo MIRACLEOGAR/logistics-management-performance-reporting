@@ -227,6 +227,32 @@ logistics-management-performance-reporting/
 
 ---
 
+---
+
+## 👩‍💻 Author
+
+### Miracle Ogar
+
+**Data Analyst | Business Intelligence | Data Analytics**
+
+GitHub: **[@miracleogar](https://github.com/miracleogar)**
+
+---
+
+## 🎯 Project Focus
+
+**Domain:** Logistics & Transportation
+
+**Project Type:** Business Intelligence / Operational Reporting
+
+**Data:** Synthetic operational data
+
+**Primary Tools:** Google Forms, Google Sheets, Power BI, Power Query, DAX
+
+**Reporting Areas:** Loads, Expenses, Payroll, Dispatchers, Carriers, Revenue & Profitability
+
+---
+
 ## Disclaimer
 
 This project is presented as a portfolio demonstration of a logistics management and reporting solution developed during an internship. The data included in this repository is synthetic and was created for demonstration purposes only.
